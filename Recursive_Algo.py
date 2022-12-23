@@ -62,3 +62,24 @@ def powerOfNumber(base, exponent):
 
 print(powerOfNumber(5, 5))
 
+# Great Common Diviser 
+
+def gcd(a, b):
+    if b == 0:
+        return a
+    else:
+        return gcd(b, a%b)
+
+print(gcd(48, 18))
+
+# Convert a number decimal to binary
+def decimalToBinary(m):
+    assert int (m) == m, 'The number must be integer only'
+
+    if m == 0:
+        return 0
+    else:
+        return m % 2 + 10 * decimalToBinary(int(m//2))
+
+print(decimalToBinary(10))
+
