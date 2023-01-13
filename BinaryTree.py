@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © 2020 AppMillers. All rights reserved.
-
 import QueueLinkedList as queue
 
 class TreeNode:
