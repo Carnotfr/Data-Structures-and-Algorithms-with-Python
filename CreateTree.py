@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov on 05/06/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
-
 class TreeNode:
     def __init__(self, data, children = []):
         self.data = data
