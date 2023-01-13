@@ -44,7 +44,6 @@ def isAnagram(s, t):
 # This should correctly determine whether t is an anagram of s for the given input.
 
 
-# carnotfrancobgenge@gmail.com
 # I don't clearly understand it properly. Can you add more explanation?
 # Certainly! Here is a more detailed explanation of the code:
 
@@ -57,7 +56,6 @@ def isAnagram(s, t):
 # I hope this helps clarify things. Let me know if you have any more questions.
 
 
-# carnotfrancobgenge@gmail.com
 # why do we decrement?
 # We decrement the count for each character in t in the s_counts dictionary to keep track of the number of occurrences of that character in s that have not been matched with an occurrence in t. This allows us to determine whether t is an anagram of s by ensuring that the counts for all characters in s are non-negative after we have processed all the characters in t.
 
@@ -68,7 +66,7 @@ def isAnagram(s, t):
 # t = "bca"
 # We create the s_counts dictionary with counts for each character in s:
 
-# Copy code
+
 # s_counts = {
 #     "a": 1,
 #     "b": 1,
@@ -84,4 +82,3 @@ def isAnagram(s, t):
 # }
 # After we have processed all the characters in t, the counts for all characters in s_counts are 0, which means that t is an anagram of s. If any of the counts had been negative after processing all the characters in t, it would mean that there are more occurrences of that character in t than in s, so t would not be an anagram of s.
 
-# I hope this helps clarify things. Let me know if you have any more questions.
