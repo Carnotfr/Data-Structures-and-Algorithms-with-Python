@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
-
 # Number of paths to reach the last cell with given cost in 2D array
 
 def numberOfPaths(twoDArray, row, col, cost):
