@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © 2021 AppMillers. All rights reserved.
-
 class Graph:
     def __init__(self, gdict=None):
         if gdict is None:
