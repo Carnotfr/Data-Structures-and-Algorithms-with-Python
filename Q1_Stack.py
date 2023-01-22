@@ -1,5 +1,3 @@
-#   Created by Elshad Karimov on 02/06/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
 
 # Use a single list to implement three stacks.
 
