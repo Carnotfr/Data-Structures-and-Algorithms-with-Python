@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov on 04/06/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
-  
 #   Create Stack with min method
 
 class Node():
