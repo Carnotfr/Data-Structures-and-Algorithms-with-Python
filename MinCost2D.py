@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
-
 # Minimum Cost in 2D array
 
 def findMinCost(twoDArray, row, col):
