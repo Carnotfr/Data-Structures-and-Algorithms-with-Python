@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov on 19/05/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
-
 # Question 5 - Intersection
 
 from LinkedList import LinkedList, Node
