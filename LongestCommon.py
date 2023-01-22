@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
-
 # Longest Common Subsequence in Python
 
 def findLCS(s1, s2, index1, index2):
