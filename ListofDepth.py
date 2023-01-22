@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
-
 # List of Depth
 class LinkedList:
     def __init__(self, val):
