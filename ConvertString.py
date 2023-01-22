@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
-
 # Convert One String to Another with minimum operation in Python
 
 def findMinOperation(s1, s2, index1, index2):
