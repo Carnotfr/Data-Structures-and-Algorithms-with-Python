@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov on 17/05/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
-
 from random import randint
 class Node:
     def __init__(self, value=None):
