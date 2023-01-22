@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
-
 # House Robber Problem  in Python
 
 def houseRobber(houses, currentIndex):
