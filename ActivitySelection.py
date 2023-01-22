@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
-
 # Activity Selection Problem  in Python
 
 activities = [["A1", 0, 6],
