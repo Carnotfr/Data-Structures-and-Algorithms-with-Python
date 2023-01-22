@@ -1,5 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
 
 # Zero One Knapsack in Python
 
