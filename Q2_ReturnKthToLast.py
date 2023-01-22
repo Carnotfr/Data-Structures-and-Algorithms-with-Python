@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov on 18/05/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
-
 from LinkedList import LinkedList
 
 def nthToLast(ll, n):
