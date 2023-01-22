@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov on 02/06/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
-
 # Implement a cat and dog queue for an animal shelter.
 
 class AnimalShelter():
