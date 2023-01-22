@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
-
 # Longest Polindromic Subsequence in Python
 
 def findLPS(s, startIndex, endIndex):
