@@ -1,6 +1,3 @@
-#   Created by Elshad Karimov 
-#   Copyright © AppMillers. All rights reserved.
-
 # Fractional Knapsack Problem  in Python
 
 class Item:
